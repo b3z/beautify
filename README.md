@@ -1,4 +1,4 @@
-#vim-beautify Vim Beautify
+# Vim Beautify
 
 > A fork of github.com/zeekay/vim-beautify 
 
