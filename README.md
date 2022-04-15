@@ -1,9 +1,15 @@
-# Vim Beautify
+#vim-beautify Vim Beautify
 
 > A fork of github.com/zeekay/vim-beautify 
 
 Adds `:Beautify` which
 beautifies buffers or ranges.
+
+## Install
+Use plug:
+```
+Plug 'b3z/beautify'
+```
 
 ## Built-in support
 - C, C++
