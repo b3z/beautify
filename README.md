@@ -1,5 +1,8 @@
-# vim-beautify
-Why live with ugly code? Adds filetype specific `:Beautify` command which
+# Vim Beautify
+
+> A fork of github.com/zeekay/vim-beautify 
+
+Adds `:Beautify` which
 beautifies buffers or ranges.
 
 ## Built-in support
